@@ -1,5 +1,6 @@
 export const site = {
 	url: 'https://2026.fossforall.org',
+	ticketUrl: 'https://ticketa.co/event/ytbqha4p',
 	socialImage: '/f4ac26.png',
 	socialImageWidth: 1200,
 	socialImageHeight: 630,
