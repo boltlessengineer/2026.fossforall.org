@@ -21,6 +21,7 @@ export const ui = {
       subtitle: '오픈소스로 향하는 첫 걸음',
       actions: [
         { label: '세션 목록', href: '/sessions', variant: 'default' },
+        { label: '티켓 구매', href: 'https://ticketa.co/e/ytbqha4p', variant: 'default', external: true },
         { label: '컨퍼런스 소개', href: '/about/', variant: 'outline' },
       ],
     },
@@ -91,6 +92,7 @@ export const ui = {
       subtitle: 'Your Gateway to Open Source',
       actions: [
         { label: 'Sessions', href: '/sessions', variant: 'default' },
+        { label: 'Buy Tickets', href: 'https://ticketa.co/e/ytbqha4p', variant: 'default', external: true },
         { label: 'About the Conference', href: '/en/about/', variant: 'outline' },
       ],
     },
