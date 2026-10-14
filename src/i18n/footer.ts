@@ -19,7 +19,7 @@ const footer = {
 		copyright:
 			'© 2026-Present FOSS for All. 별도 고지가 없는 경우, 콘텐츠는 CC BY 4.0 소스코드는 MIT 라이센스 아래 이용 가능.',
 		links: [
-			{ key: 'email', label: '이메일로 연락하기', href: 'mailto:contact@fossforall.org' },
+			{ key: 'email', label: '이메일로 연락하기', href: 'mailto:conference@fossforall.org' },
 			{
 				key: 'privacy',
 				label: '개인정보 처리방침',
@@ -45,7 +45,7 @@ const footer = {
 		copyright:
 			'© 2026-Present FOSS for All. Unless otherwise noted, content is available under CC BY 4.0 and source code under the MIT License.',
 		links: [
-			{ key: 'email', label: 'Contact by email', href: 'mailto:contact@fossforall.org' },
+			{ key: 'email', label: 'Contact by email', href: 'mailto:conference@fossforall.org' },
 			{
 				key: 'privacy',
 				label: 'Privacy Policy',
